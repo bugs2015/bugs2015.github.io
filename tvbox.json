@@ -1147,6 +1147,59 @@
       "ext": "./js/酷奇MV.js"
     },
     {
+     "key": "演唱会自定义",
+     "name": " 💛吾爱演唱会",
+     "type": 3,
+     "api": "csp_Bili",
+     "searchable": 0,
+     "quickSearch": 0,
+     "filterable": 1,
+     "ext": "./json/演唱会-哔哩0723.json?sign=z4Y7NjVCJaL5btPsV1J6EUBINaJ79WGmTzh_mjJlM-A%3D%3A0",
+ //    "spider": "./jar/吾爱0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+    },
+    {
+     "key": "新哔哩",
+     "name": "🎗️新哔哩",
+     "type": 3,
+     "api": "csp_Bili",
+     "searchable": 0,
+     "quickSearch": 0,
+     "filterable": 1,
+     "ext": "./json/新哔哩.json?sign=z4Y7NjVCJaL5btPsV1J6EUBINaJ79WGmTzh_mjJlM-A%3D%3A0",
+//     "spider": "./jar/吾爱0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+    },
+    {
+     "key": "MV",
+     "name": " 💚吾爱MV",
+     "type": 3,
+     "api": "csp_Bili",
+     "searchable": 0,
+     "quickSearch": 0,
+     "filterable": 1,
+     "ext": "./json/MTV-哔哩0723.json?sign=z4Y7NjVCJaL5btPsV1J6EUBINaJ79WGmTzh_mjJlM-A%3D%3A0",
+//     "spider": "./jar/吾爱0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+    },
+    {"key": "乐器",
+     "name": "🖤吾爱乐器",
+     "type": 3,"api": "csp_Bili",
+     "searchable": 0,
+     "quickSearch": 0,
+     "filterable": 1,
+     "ext": "./json/吾爱乐器.json?sign=z4Y7NjVCJaL5btPsV1J6EUBINaJ79WGmTzh_mjJlM-A%3D%3A0",
+//     "spider": "./jar/吾爱0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+    },
+    {
+     "key": "舞蹈",
+     "name": "🦊吾爱舞蹈",
+     "type": 3,
+     "api": "csp_Bili",
+     "searchable": 0,
+     "quickSearch": 0,
+     "filterable": 1,
+     "ext": "./json/吾爱舞蹈.json?sign=z4Y7NjVCJaL5btPsV1J6EUBINaJ79WGmTzh_mjJlM-A%3D%3A0",
+//     "spider": "./jar/吾爱0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+    },
+    {
       "key": "drpy_js_音悦网",
       "name": "MV | 音悦网",
       "type": 3,
@@ -1322,6 +1375,17 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "./json/高中课堂.json"
+    },
+    {
+     "key": "外语",
+     "name": "🎗️吾爱外语",
+     "type": 3,
+     "api": "csp_Bili",
+     "searchable": 0,
+     "quickSearch": 0,
+     "filterable": 1,
+     "ext": "./json/吾爱外语.json?sign=z4Y7NjVCJaL5btPsV1J6EUBINaJ79WGmTzh_mjJlM-A%3D%3A0",
+//     "spider": "./jar/吾爱0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
     },
     {
       "key": "量子资源",
