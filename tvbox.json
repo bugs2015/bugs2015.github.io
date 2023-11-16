@@ -1155,7 +1155,6 @@
      "quickSearch": 0,
      "filterable": 1,
      "ext": "./json/演唱会-哔哩0723.json?sign=z4Y7NjVCJaL5btPsV1J6EUBINaJ79WGmTzh_mjJlM-A%3D%3A0",
- //    "spider": "./jar/吾爱0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
     },
     {
      "key": "新哔哩",
@@ -1166,7 +1165,6 @@
      "quickSearch": 0,
      "filterable": 1,
      "ext": "./json/新哔哩.json?sign=z4Y7NjVCJaL5btPsV1J6EUBINaJ79WGmTzh_mjJlM-A%3D%3A0",
-//     "spider": "./jar/吾爱0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
     },
     {
      "key": "MV",
@@ -1177,7 +1175,6 @@
      "quickSearch": 0,
      "filterable": 1,
      "ext": "./json/MTV-哔哩0723.json?sign=z4Y7NjVCJaL5btPsV1J6EUBINaJ79WGmTzh_mjJlM-A%3D%3A0",
-//     "spider": "./jar/吾爱0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
     },
     {"key": "乐器",
      "name": "🖤吾爱乐器",
@@ -1186,7 +1183,6 @@
      "quickSearch": 0,
      "filterable": 1,
      "ext": "./json/吾爱乐器.json?sign=z4Y7NjVCJaL5btPsV1J6EUBINaJ79WGmTzh_mjJlM-A%3D%3A0",
-//     "spider": "./jar/吾爱0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
     },
     {
      "key": "舞蹈",
@@ -1197,7 +1193,6 @@
      "quickSearch": 0,
      "filterable": 1,
      "ext": "./json/吾爱舞蹈.json?sign=z4Y7NjVCJaL5btPsV1J6EUBINaJ79WGmTzh_mjJlM-A%3D%3A0",
-//     "spider": "./jar/吾爱0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
     },
     {
       "key": "drpy_js_音悦网",
@@ -1385,7 +1380,6 @@
      "quickSearch": 0,
      "filterable": 1,
      "ext": "./json/吾爱外语.json?sign=z4Y7NjVCJaL5btPsV1J6EUBINaJ79WGmTzh_mjJlM-A%3D%3A0",
-//     "spider": "./jar/吾爱0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
     },
     {
       "key": "量子资源",
